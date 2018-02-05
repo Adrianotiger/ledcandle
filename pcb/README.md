@@ -1,3 +1,5 @@
+![alt text](https://github.com/Adrianotiger/ledcandle/blob/master/pcb/Led_candle_schema.png "Led Candle Schema, version 1.3")
+
 # Schematics
 
 ## How it works
