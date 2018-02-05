@@ -22,6 +22,8 @@ There is a dipswitch that can be used to set some variables inside the code or t
 |  1  | U2 DipSwitch | 0.15$ | Not necessary, you can bridge the pins directly, as this is an expensive component |
 |  1  | D1 BAS40-05 | 0.02$ | Dual schottky diode. You need this if you want detect a second press over the µC.* |
 |  1  | U1 ATTiny45V | 1.40$ | AT Tiny45 V, is like the AT Tiny45 but you can power it from 1.8V to 5.5V (the normal one only from 2.7 to 5.5V)** |
+|  ∞  | 2032 Battery | 0.50$ | A simple 2032 battery, you can get them from 0.10$ up to 1$. Don't know if there is a big difference) |
+|  1  | PCB print | 0.40$ | If you buy 5, you have to pay 2$ on easyeda.com |
 
 ## Troubles
 ***Schottky (D1):***
