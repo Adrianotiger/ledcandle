@@ -11,7 +11,12 @@ A project for my [childs room-sky](https://www.youtube.com/watch?v=BvMHdN5_T0Q),
 
 It works with an ATTiny45V (Arduino project)
 
-Design and PCB are open source and hosted on Easy Eda:
+Schematics and PCB are open source and hosted on Easy Eda (see PCB folder): 
+
 https://easyeda.com/tiger54/led_candle-13fe66ec4c4447c1abb9b866b1f16509
+
+3D-print design are hosted on Tinkercad (see 3d-print folder): 
+
+https://www.tinkercad.com/#/?type=all&collection=projects&id=arrGRzcBZGx
 
 Copy of the schematics and the Arduino code is hosted on GitHub.
