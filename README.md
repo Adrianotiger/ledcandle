@@ -17,6 +17,7 @@ https://easyeda.com/tiger54/led_candle-13fe66ec4c4447c1abb9b866b1f16509
 
 3D-print design are hosted on Tinkercad (see 3d-print folder): 
 
-https://www.tinkercad.com/#/?type=all&collection=projects&id=arrGRzcBZGx
+https://www.tinkercad.com/things/0Jzv9iGX0FP
+https://www.tinkercad.com/things/gcvcmAciCn8
 
 Copy of the schematics and the Arduino code is hosted on GitHub.
